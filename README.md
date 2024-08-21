@@ -1,2 +1,2 @@
-# arrays
+# Arrays
 solving problems  on array
